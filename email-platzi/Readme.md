@@ -1,2 +1,4 @@
-Maquetado para envio de Correo
+## Maquetado para envio de Email.
 
+
+![](img/email-platzi.jpg)
